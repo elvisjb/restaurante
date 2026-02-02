@@ -92,8 +92,8 @@ nav ul li a:hover {
 }
 
 .plato-card img {
-    width: 100%;
-    border-radius: 10px;
+    width: 90%;
+    border-radius: 20px;
     transition: transform 0.3s;
 }
 
